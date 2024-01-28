@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.hack_img {
+  width: 150px;
+  height: 150px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.header {
+  background-color: orange;
+  background-repeat: no-repeat;
+  height: 300px;
+}
+
+.aternos {
+  margin-left: 12px;
+  background-color: rgb(77, 77, 209);
+  width: 180px;
+  color: white;
+
+  height: 50px;
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: brown;
+  height: 300px;
+}
+
+a {
+  color: white;
+  background-color: blue;
+}
+
+.fuck {
+  display: flex;
+  justify-content: center;
+  margin-top: 300px;
+  color: yellowgreen;
+}
+
+.fucking {
+  background-image: url(skkz.jpg);
+  height: 2000px;
+  background-repeat: no-repeat;
+  padding-top: 20px;
+  margin-right: 300px;
+}
+
+img {
+  height: 200px;
+}
+
+audio {
+  margin-top: 5000px;
+}
